@@ -1,0 +1,15 @@
+# Ignore compiled object and binary files
+*.o
+*.out
+*.exe
+
+# Ignore backup / swap files
+*~
+*.swp
+
+# Ignore Competitive Programming Helper files
+*.cph
+
+# Ignore build directories (if any)
+build/
+dist/
